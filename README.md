@@ -5,7 +5,8 @@ This is a JavaFX desktop application for managing apartments and customers. The 
 
 ##  Key Features
 
-Apartment Management
+### Apartment Management
+
 Add Apartments:
 
 Airbnb apartments
@@ -22,7 +23,7 @@ Filter apartments by type:
 
 ---
 
-Airbnb
+### Airbnb
 
 For Sale
 
@@ -36,7 +37,7 @@ Show the most expensive apartment for rent.
 
 ---
 
-Customer Interest:
+### Customer Interest:
 
 View which customers are interested in each apartment.
 
