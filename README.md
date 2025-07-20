@@ -20,6 +20,8 @@ View all apartments.
 
 Filter apartments by type:
 
+---
+
 Airbnb
 
 For Sale
@@ -32,6 +34,8 @@ Show rental prices for all apartments available for rent.
 
 Show the most expensive apartment for rent.
 
+---
+
 Customer Interest:
 
 View which customers are interested in each apartment.
@@ -42,6 +46,8 @@ Add Customers:
 Customers must select an apartment they are interested in during creation.
 
 Display Customers:
+
+---
 
 View a full list of all registered customers.
 
